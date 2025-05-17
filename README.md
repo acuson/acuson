@@ -1,0 +1,5 @@
+- 👋 Hi, I'm Alyssa!
+- 👩‍💻 I’m currently architecting digital analytics projects
+- 🌱 I’m currently learning Python and R
+- 🎓 Ask me about OMSA @ Georgia Tech
+- 😄 Pronouns: she/her
