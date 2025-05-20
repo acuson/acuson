@@ -2,4 +2,5 @@
 - 👩‍💻 I’m currently architecting digital analytics projects
 - 🌱 I’m currently learning Python and R
 - 🎓 Ask me about OMSA @ Georgia Tech
+- 👀 Connect with me on [LinkedIn](https://www.linkedin.com/in/alyssamadsen/)
 - 😄 Pronouns: she/her
